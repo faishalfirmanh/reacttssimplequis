@@ -10,5 +10,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Image of Yaktocat](https://github.com/faishalfirmanh/reacttssimplequis/blob/main/src/images/tess.PNG)
 
-#Thanks to 
+# Thanks to 
 FREECODECAMP
